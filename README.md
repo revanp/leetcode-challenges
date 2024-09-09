@@ -5,7 +5,7 @@ This is a collection of LeetCode answer solutions to various Problem Challenges 
 
 ## Acknowledgements
 
- - [1. Two Sum](https://github.com/revanp/leetcode-challenges)
+ - [1. Two Sum](https://github.com/revanp/leetcode-challenges/tree/main/1.%20Two%20Sums)
 
 
 ## Authors
